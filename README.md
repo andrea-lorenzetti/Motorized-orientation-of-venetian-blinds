@@ -36,6 +36,6 @@ To improve our project we would fix the problems of the interrupt button and add
 Moreover we could swap the photoresistor with a light sensor in order to make the system more accurate and sensitive to the cold light too because as we said before the photoresistor is not the best choice for this kind of project and also because as we said before it only senses warm lights .
 
 <a title="LINK" href="https://docs.google.com/presentation/d/1_qU5ETJd3HPaiEGd4Cfg13uD3JHw4tIzg7xWpKMwRN8/edit?usp=sharing" target="_blank" > PowerPoint presentation
- <\br>
+ <br>
 <a title="LINK" href="https://www.youtube.com/watch?v=DqiI_04X7rQ" target="_blank" > Video demonstration
  
