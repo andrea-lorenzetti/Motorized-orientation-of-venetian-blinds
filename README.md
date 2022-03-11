@@ -5,11 +5,7 @@ Automate the orientation of the venetian blinds based on the light or as the use
 
 The scope of our project was to create an automated motor that orients the venetian blinds by itself or with a wireless communication from the user in order to avoid the bother of continue get up to change manually the orientation during the day.
 In order to do that we used an arduino with some sensors.
-<ul>
-  <li>primo elemento</li>
-  <li>secondo elemento</li>
-  <li>terzo elemento</li>
-</ul>
+
 <p>WORKING SCHEME:</p>
 With the arduino board we used:
 <ul>
